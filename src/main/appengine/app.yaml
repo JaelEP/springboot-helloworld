@@ -13,5 +13,6 @@
 # limitations under the License.
 
 # [START gae_java11_helloworld_yaml]
-runtime: java11
+runtime: java21
 # [END gae_java11_helloworld_yaml]
+
